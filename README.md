@@ -27,6 +27,7 @@ The dataset contains clothing product details from Myntra.
 * `DiscountOffer` → Discount percentage or offer text
 * `Rating` → Customer rating
 
+* Link: https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset
 ---
 
 ## 📊 Exploratory Data Analysis (EDA) Steps
